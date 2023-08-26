@@ -1,0 +1,14 @@
+{
+    "name": "mester/app",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "symfony/http-foundation": "^6.2",
+        "symfony/console": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
