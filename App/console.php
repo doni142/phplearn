@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 <?php
-// application.php
+// Some command, need a proper documentation, b'cause it's a shit: application.php
 ini_set('display_errors', 1); 
 ini_set('display_startup_errors', 1); 
 error_reporting(E_ALL);
